@@ -6,17 +6,17 @@ After cleaning, the dataset is ready for analysis and saved as Cleaned_India_Emp
 Data Cleaning Steps Performed-:
 
 Filled missing values
-Salary → mean
-Years of Experience → median
-Age Group, Industry, AI Risk → mode
-Education & Location → "Not Provided"
-Status → set as "Employed" or "Unemployed" based on salary
-Standardized and fixed data
-Converted text columns to proper case
-Fixed age group formatting (e.g., 20_to_30 → 20-30)
-Removed duplicates
-Replaced negative or infinite salary values with average
-Exported cleaned dataset as Cleaned_India_Employment_Dataset.csv
+Salary → mean;
+Years of Experience → median;
+Age Group, Industry, AI Risk → mode;
+Education & Location → "Not Provided";
+Status → set as "Employed" or "Unemployed" based on salary;
+Standardized and fixed data;
+Converted text columns to proper case;
+Fixed age group formatting (e.g., 20_to_30 → 20-30);
+Removed duplicates;
+Replaced negative or infinite salary values with average;
+Exported cleaned dataset as Cleaned_India_Employment_Dataset.csv;
 
 
 Files in Repository-:
