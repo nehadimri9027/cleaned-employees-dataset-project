@@ -21,10 +21,10 @@ Exported cleaned dataset as Cleaned_India_Employment_Dataset.csv;
 
 Files in Repository-:
 
-Messy_Employment_India_Dataset.csv → Original dataset
-data_clean.py → Python script for cleaning
-Cleaned_India_Employment_Dataset.csv → Final cleaned dataset
-Cleaned_India_Employment_Dataset.csv → excel file dataset
+Messy_Employment_India_Dataset.csv → Original dataset;
+data_clean.py → Python script for cleaning;
+Cleaned_India_Employment_Dataset.csv → Final cleaned dataset;
+Cleaned_India_Employment_Dataset.csv → excel file dataset;
 
 How to Run the Script-:
 
